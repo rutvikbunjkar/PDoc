@@ -1,0 +1,44 @@
+//admin login
+	1.while taking data it takes customer login data and returns response with customer Id = 0 always
+	2 
+//change status
+	1.
+	2.
+//customer
+	1.
+	2.
+//login-counter-executive
+//CEID
+//createaccount
+//verifyaccount
+//registerEbanking-not checked
+//login
+//generateOtp
+//accountstatement
+//userprofile
+//changepassword
+//addbeneficiary
+//fetchaccount
+//fetchbeneficiaries
+//addService
+//getServicesTypes
+//assignCounter
+//generateToken
+//requestingQueue 
+//requestingWaitingQueue
+//getServicesTypesForTokenGeneration
+//statusWaiting
+resolved
+//transaction
+//transaction/rtgs
+gettransaction ->  see what is reply
+//toandfromtrans
+
+
+
+
+
+
+
+
+

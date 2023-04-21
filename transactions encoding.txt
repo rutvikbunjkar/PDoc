@@ -1,0 +1,7 @@
+1. with password hash we will get a number and
+ with that number as input in ceaser cipher we can encode the whole transaction even
+ the signatures.
+
+2.we can get decoding with the same password
+
+3.next decoding is with ecdsa with customer  
